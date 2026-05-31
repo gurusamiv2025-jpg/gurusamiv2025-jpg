@@ -59,7 +59,7 @@ AgroZon is a smart agriculture platform built to empower farmers with digital to
 - 🔌 RESTful API architecture
 - 🐍 Python-powered backend logic + Java for core systems
 
-[![AgroZon Repo](https://img.shields.io/badge/View_Project-AgroZon-238636?style=for-the-badge&logo=github)](https://github.com/gurusamiv2025-jpg/AgroZon)
+[![AgroZon Repo](https://img.shields.io/badge/View_Project-AgroZon-238636?style=for-the-badge&logo=github)](https://github.com/gurusamiv2025-jpg/AGROZON-py)
 
 ---
 
