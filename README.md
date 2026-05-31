@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm V Gurusami
 
-### `$ Software Developer | Problem Solver | Code Architect`
+### ` Software Developer | Problem Solver | Code Architect`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=C+%2F+C%2B%2B+Developer;Java+%26+Python+Enthusiast;DSA+%26+OOP+Practitioner;Building+AgroZon+%F0%9F%8C%BE)](https://git.io/typing-svg)
 
