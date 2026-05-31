@@ -50,11 +50,10 @@ class Developer {
 
 > **Bridging technology and agriculture for smarter farming**
 
-AgroZon is a smart agriculture platform built to empower farmers with digital tools, market connectivity, and crop insights. The goal: reduce information asymmetry in the farming sector and enable data-driven agricultural decisions.
+AGROZON is a console-based e-commerce platform developed using Python, aimed at revolutionizing the way agricultural products are distributed and accessed in rural and semi-urban regions. In a country like India, where agriculture plays a vital role in the economy and livelihood of millions, digital solutions tailored for farmers and local sellers are essential. AGROZON addresses this need by providing a lightweight, command-line interface that enables users to register, log in, browse a diverse catalog of groceries and farm produce, manage a shopping cart, and place orders— all without the need for graphical environments or high-end devices.
 
 **Key Highlights:**
 - 🌱 Farmer-market connectivity layer
-- 📊 Crop analytics and recommendations
 - 🔐 Secure role-based access (OOP design patterns)
 - 🔌 RESTful API architecture
 - 🐍 Python-powered backend logic + Java for core systems
