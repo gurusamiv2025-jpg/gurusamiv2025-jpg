@@ -70,7 +70,7 @@ AGROZON is a console-based e-commerce platform developed using Python, aimed at 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurusamiv2025-jpg&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=E6EDF3)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gurusamiv2025-jpg&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3FB950&fire=FF7B00&currStreakLabel=3FB950)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=gurusamiv2025-jpg&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3FB950&fire=FF7B00&currStreakLabel=3FB950)](https://github.com/gurusamiv2025-jpg)
 
 </div>
 
