@@ -75,7 +75,8 @@ AGROZON is a console-based e-commerce platform developed using Python, aimed at 
 </div>
 
 ---
-
+## Leetcode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ZWrvYxGKrP?theme=dark)](https://leetcode.com/u/ZWrvYxGKrP/)
 ## 🧩 DSA & Problem Solving
 
 - ✅ Strong foundation in **Arrays, Strings, Trees, Graphs, DP**
